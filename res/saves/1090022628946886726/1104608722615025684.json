@@ -157,8 +157,8 @@
     "nanos" : 266080846
   },
   "updatedTime" : {
-    "seconds" : 1685819856,
-    "nanos" : 83410323
+    "seconds" : 1687931783,
+    "nanos" : 509752972
   },
   "phase" : "SETUP",
   "mapCodename" : "north-america",
@@ -167,6 +167,16 @@
       "id" : "817963796126498856"
     },
     "name" : "glove"
+  }, {
+    "identifier" : {
+      "id" : "969989264291016754"
+    },
+    "name" : "LDH"
+  }, {
+    "identifier" : {
+      "id" : "773791215619407933"
+    },
+    "name" : "_ __ __ __ __ __ __ _"
   } ],
   "nations" : [ {
     "identifier" : {
@@ -176,8 +186,34 @@
     "leaderIdentifier" : {
       "id" : "817963796126498856"
     }
+  }, {
+    "identifier" : {
+      "id" : "4ce3b1a7-0519-4956-92d9-48d65d018915"
+    },
+    "colorId" : 2,
+    "leaderIdentifier" : {
+      "id" : "773791215619407933"
+    }
+  }, {
+    "identifier" : {
+      "id" : "7c4af258-ff03-42be-872a-1d3894d538d5"
+    },
+    "colorId" : 4,
+    "leaderIdentifier" : {
+      "id" : "969989264291016754"
+    }
   } ],
   "claims" : [ {
+    "identifier" : {
+      "id" : "7c4af258-ff03-42be-872a-1d3894d538d5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7I"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
     "identifier" : {
       "id" : "ff6e80e4-5e3c-409a-9e88-7d6b66e56def"
     },

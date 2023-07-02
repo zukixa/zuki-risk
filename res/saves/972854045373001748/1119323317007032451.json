@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1115383797907722280"
+    "id" : "1119323317007032451"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,77 +153,18 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1685998946,
-    "nanos" : 743012120
+    "seconds" : 1687406952,
+    "nanos" : 218138231
   },
   "updatedTime" : {
-    "seconds" : 1687800882,
-    "nanos" : 753953061
+    "seconds" : 1687406952,
+    "nanos" : 218144185
   },
   "phase" : "SETUP",
-  "mapCodename" : "europe",
-  "players" : [ {
-    "identifier" : {
-      "id" : "817963796126498856"
-    },
-    "name" : "glove | Japanese Empire"
-  }, {
-    "identifier" : {
-      "id" : "845793639040942080"
-    },
-    "name" : "C. Cheese (Swedish Empire)"
-  }, {
-    "identifier" : {
-      "id" : "966112196327268422"
-    },
-    "name" : "D. John VI of Portugal"
-  } ],
-  "nations" : [ {
-    "identifier" : {
-      "id" : "1f47c156-6471-4a98-b199-4473f0cb83fa"
-    },
-    "colorId" : 15,
-    "leaderIdentifier" : {
-      "id" : "845793639040942080"
-    }
-  }, {
-    "identifier" : {
-      "id" : "86badf3f-a2b3-48fd-b9fa-08b1faa16506"
-    },
-    "colorId" : 1,
-    "leaderIdentifier" : {
-      "id" : "966112196327268422"
-    }
-  }, {
-    "identifier" : {
-      "id" : "3321580a-17c9-4342-98d3-10b25d6f9a48"
-    },
-    "colorId" : 10,
-    "leaderIdentifier" : {
-      "id" : "817963796126498856"
-    }
-  } ],
-  "claims" : [ {
-    "identifier" : {
-      "id" : "1f47c156-6471-4a98-b199-4473f0cb83fa"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "8T"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "3321580a-17c9-4342-98d3-10b25d6f9a48"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "8G"
-      },
-      "type" : "CAPITAL"
-    }
-  } ],
+  "mapCodename" : "",
+  "players" : [ ],
+  "nations" : [ ],
+  "claims" : [ ],
   "alliances" : [ ],
   "featureFlags" : [ ],
   "type" : "com.riskrieg.core.api.game.mode.Conquest"
