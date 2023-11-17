@@ -1,0 +1,447 @@
+{
+  "identifier" : {
+    "id" : "1096490405828247623"
+  },
+  "constants" : {
+    "minimumPlayers" : 2,
+    "maximumPlayers" : 16,
+    "initialClaimAmount" : 1,
+    "claimIncreaseThreshold" : 5,
+    "capitalAttackBonus" : 2,
+    "capitalDefenseBonus" : 1
+  },
+  "palette" : {
+    "name" : "Default-16",
+    "textColor" : {
+      "order" : -2147483648,
+      "name" : "Text",
+      "r" : 116,
+      "g" : 79,
+      "b" : 40
+    },
+    "borderColor" : {
+      "order" : -2147483648,
+      "name" : "Border",
+      "r" : 116,
+      "g" : 79,
+      "b" : 40
+    },
+    "territoryColor" : {
+      "order" : -2147483648,
+      "name" : "Territory",
+      "r" : 224,
+      "g" : 219,
+      "b" : 227
+    },
+    "landColor" : {
+      "order" : -2147483648,
+      "name" : "Land",
+      "r" : 200,
+      "g" : 183,
+      "b" : 173
+    },
+    "waterColor" : {
+      "order" : -2147483648,
+      "name" : "Water",
+      "r" : 192,
+      "g" : 163,
+      "b" : 146
+    },
+    "connectionColor" : {
+      "order" : -2147483648,
+      "name" : "Connection",
+      "r" : 148,
+      "g" : 125,
+      "b" : 111
+    },
+    "sortedColorSet" : [ {
+      "order" : 0,
+      "name" : "Salmon",
+      "r" : 255,
+      "g" : 140,
+      "b" : 150
+    }, {
+      "order" : 1,
+      "name" : "Lavender",
+      "r" : 155,
+      "g" : 120,
+      "b" : 190
+    }, {
+      "order" : 2,
+      "name" : "Thistle",
+      "r" : 215,
+      "g" : 190,
+      "b" : 240
+    }, {
+      "order" : 3,
+      "name" : "Ice",
+      "r" : 195,
+      "g" : 230,
+      "b" : 255
+    }, {
+      "order" : 4,
+      "name" : "Sky",
+      "r" : 120,
+      "g" : 165,
+      "b" : 215
+    }, {
+      "order" : 5,
+      "name" : "Sea",
+      "r" : 140,
+      "g" : 225,
+      "b" : 175
+    }, {
+      "order" : 6,
+      "name" : "Forest",
+      "r" : 85,
+      "g" : 155,
+      "b" : 60
+    }, {
+      "order" : 7,
+      "name" : "Sod",
+      "r" : 170,
+      "g" : 190,
+      "b" : 95
+    }, {
+      "order" : 8,
+      "name" : "Cream",
+      "r" : 255,
+      "g" : 254,
+      "b" : 208
+    }, {
+      "order" : 9,
+      "name" : "Sun",
+      "r" : 240,
+      "g" : 225,
+      "b" : 80
+    }, {
+      "order" : 10,
+      "name" : "Gold",
+      "r" : 255,
+      "g" : 195,
+      "b" : 5
+    }, {
+      "order" : 11,
+      "name" : "Cadmium",
+      "r" : 250,
+      "g" : 105,
+      "b" : 65
+    }, {
+      "order" : 12,
+      "name" : "Sanguine",
+      "r" : 95,
+      "g" : 10,
+      "b" : 0
+    }, {
+      "order" : 13,
+      "name" : "Mocha",
+      "r" : 75,
+      "g" : 40,
+      "b" : 0
+    }, {
+      "order" : 14,
+      "name" : "Matte",
+      "r" : 30,
+      "g" : 30,
+      "b" : 30
+    }, {
+      "order" : 15,
+      "name" : "Cobalt",
+      "r" : 0,
+      "g" : 50,
+      "b" : 120
+    } ]
+  },
+  "creationTime" : {
+    "seconds" : 1681944645,
+    "nanos" : 584809430
+  },
+  "updatedTime" : {
+    "seconds" : 1681954594,
+    "nanos" : 127900252
+  },
+  "phase" : "ACTIVE",
+  "mapCodename" : "malta",
+  "players" : [ {
+    "identifier" : {
+      "id" : "1050232544748113992"
+    },
+    "name" : "lainfanaccount53"
+  }, {
+    "identifier" : {
+      "id" : "867487585958101002"
+    },
+    "name" : "plane"
+  } ],
+  "nations" : [ {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "colorId" : 0,
+    "leaderIdentifier" : {
+      "id" : "867487585958101002"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "colorId" : 4,
+    "leaderIdentifier" : {
+      "id" : "1050232544748113992"
+    }
+  } ],
+  "claims" : [ {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1A"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9C"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "38aff71d-28aa-4dd7-864a-c9ca352fd916"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "341c0e57-bd50-48a5-b1c4-721eb3d37bf5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5A"
+      },
+      "type" : "PLAIN"
+    }
+  } ],
+  "alliances" : [ ],
+  "featureFlags" : [ ],
+  "type" : "com.riskrieg.core.api.game.mode.Conquest"
+}
