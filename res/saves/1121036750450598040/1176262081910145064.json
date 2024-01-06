@@ -1,0 +1,171 @@
+{
+  "identifier" : {
+    "id" : "1176262081910145064"
+  },
+  "constants" : {
+    "minimumPlayers" : 2,
+    "maximumPlayers" : 16,
+    "initialClaimAmount" : 1,
+    "claimIncreaseThreshold" : 5,
+    "capitalAttackBonus" : 2,
+    "capitalDefenseBonus" : 1
+  },
+  "palette" : {
+    "name" : "Original-16",
+    "textColor" : {
+      "order" : -2147483648,
+      "name" : "Text",
+      "r" : 116,
+      "g" : 79,
+      "b" : 40
+    },
+    "borderColor" : {
+      "order" : -2147483648,
+      "name" : "Border",
+      "r" : 116,
+      "g" : 79,
+      "b" : 40
+    },
+    "territoryColor" : {
+      "order" : -2147483648,
+      "name" : "Territory",
+      "r" : 224,
+      "g" : 219,
+      "b" : 227
+    },
+    "landColor" : {
+      "order" : -2147483648,
+      "name" : "Land",
+      "r" : 200,
+      "g" : 183,
+      "b" : 173
+    },
+    "waterColor" : {
+      "order" : -2147483648,
+      "name" : "Water",
+      "r" : 192,
+      "g" : 163,
+      "b" : 146
+    },
+    "connectionColor" : {
+      "order" : -2147483648,
+      "name" : "Connection",
+      "r" : 148,
+      "g" : 125,
+      "b" : 111
+    },
+    "sortedColorSet" : [ {
+      "order" : 0,
+      "name" : "Cadmium",
+      "r" : 240,
+      "g" : 130,
+      "b" : 50
+    }, {
+      "order" : 1,
+      "name" : "Sun",
+      "r" : 241,
+      "g" : 224,
+      "b" : 82
+    }, {
+      "order" : 2,
+      "name" : "Sod",
+      "r" : 171,
+      "g" : 191,
+      "b" : 94
+    }, {
+      "order" : 3,
+      "name" : "Sea",
+      "r" : 140,
+      "g" : 198,
+      "b" : 183
+    }, {
+      "order" : 4,
+      "name" : "Sky",
+      "r" : 122,
+      "g" : 165,
+      "b" : 217
+    }, {
+      "order" : 5,
+      "name" : "Burgundy",
+      "r" : 111,
+      "g" : 16,
+      "b" : 56
+    }, {
+      "order" : 6,
+      "name" : "Sanguine",
+      "r" : 104,
+      "g" : 7,
+      "b" : 2
+    }, {
+      "order" : 7,
+      "name" : "Bistre",
+      "r" : 84,
+      "g" : 35,
+      "b" : 25
+    }, {
+      "order" : 8,
+      "name" : "Forest",
+      "r" : 32,
+      "g" : 64,
+      "b" : 18
+    }, {
+      "order" : 9,
+      "name" : "Cobalt",
+      "r" : 32,
+      "g" : 42,
+      "b" : 122
+    }, {
+      "order" : 10,
+      "name" : "Indigo",
+      "r" : 39,
+      "g" : 25,
+      "b" : 79
+    }, {
+      "order" : 11,
+      "name" : "Amethyst",
+      "r" : 82,
+      "g" : 28,
+      "b" : 124
+    }, {
+      "order" : 12,
+      "name" : "Gold",
+      "r" : 227,
+      "g" : 170,
+      "b" : 49
+    }, {
+      "order" : 13,
+      "name" : "TennÃ©",
+      "r" : 193,
+      "g" : 146,
+      "b" : 114
+    }, {
+      "order" : 14,
+      "name" : "Gunmetal",
+      "r" : 170,
+      "g" : 159,
+      "b" : 140
+    }, {
+      "order" : 15,
+      "name" : "Aphotic",
+      "r" : 64,
+      "g" : 49,
+      "b" : 51
+    } ]
+  },
+  "creationTime" : {
+    "seconds" : 1701774537,
+    "nanos" : 615451870
+  },
+  "updatedTime" : {
+    "seconds" : 1701774537,
+    "nanos" : 615453819
+  },
+  "phase" : "SETUP",
+  "mapCodename" : "",
+  "players" : [ ],
+  "nations" : [ ],
+  "claims" : [ ],
+  "alliances" : [ ],
+  "featureFlags" : [ ],
+  "type" : "com.riskrieg.core.api.game.mode.Brawl"
+}
