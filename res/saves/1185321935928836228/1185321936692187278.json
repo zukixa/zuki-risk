@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1090022628946886729"
+    "id" : "1185321936692187278"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,77 +153,31 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1681688554,
-    "nanos" : 925270144
+    "seconds" : 1722642807,
+    "nanos" : 710842225
   },
   "updatedTime" : {
-    "seconds" : 1718048662,
-    "nanos" : 260353647
+    "seconds" : 1722649050,
+    "nanos" : 897589200
   },
   "phase" : "SETUP",
-  "mapCodename" : "europe",
+  "mapCodename" : "sea-of-japan",
   "players" : [ {
     "identifier" : {
-      "id" : "781381904053698581"
+      "id" : "896162585894866984"
     },
-    "name" : "Deutsches Reich"
-  }, {
-    "identifier" : {
-      "id" : "835261611736301638"
-    },
-    "name" : "Ireland"
-  }, {
-    "identifier" : {
-      "id" : "1199196239946858507"
-    },
-    "name" : "saduahmed"
+    "name" : "cre_checkersify"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
+      "id" : "4722024d-0f32-4b9e-814d-aac7fb9ef08a"
     },
-    "colorId" : 6,
+    "colorId" : 3,
     "leaderIdentifier" : {
-      "id" : "835261611736301638"
-    }
-  }, {
-    "identifier" : {
-      "id" : "c6b2cc7f-b57a-4b21-9a41-0f8bcc0167a4"
-    },
-    "colorId" : 5,
-    "leaderIdentifier" : {
-      "id" : "1199196239946858507"
-    }
-  }, {
-    "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
-    },
-    "colorId" : 15,
-    "leaderIdentifier" : {
-      "id" : "781381904053698581"
+      "id" : "896162585894866984"
     }
   } ],
-  "claims" : [ {
-    "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "9F"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3M"
-      },
-      "type" : "CAPITAL"
-    }
-  } ],
+  "claims" : [ ],
   "alliances" : [ ],
   "featureFlags" : [ ],
   "type" : "com.riskrieg.core.api.game.mode.Conquest"

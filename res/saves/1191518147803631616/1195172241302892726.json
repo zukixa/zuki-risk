@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1090022628946886729"
+    "id" : "1195172241302892726"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,73 +153,83 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1681688554,
-    "nanos" : 925270144
+    "seconds" : 1707002663,
+    "nanos" : 957868157
   },
   "updatedTime" : {
-    "seconds" : 1718048662,
-    "nanos" : 260353647
+    "seconds" : 1708050269,
+    "nanos" : 203659792
   },
   "phase" : "SETUP",
   "mapCodename" : "europe",
   "players" : [ {
     "identifier" : {
-      "id" : "781381904053698581"
+      "id" : "748325734141001832"
     },
-    "name" : "Deutsches Reich"
+    "name" : "mintymintz"
   }, {
     "identifier" : {
-      "id" : "835261611736301638"
+      "id" : "878540402582499339"
     },
-    "name" : "Ireland"
+    "name" : "💤"
   }, {
     "identifier" : {
-      "id" : "1199196239946858507"
+      "id" : "729110967455055943"
     },
-    "name" : "saduahmed"
+    "name" : "Germans"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
+      "id" : "52dd41ec-ad70-4a57-bb18-474fffb740f1"
     },
-    "colorId" : 6,
+    "colorId" : 14,
     "leaderIdentifier" : {
-      "id" : "835261611736301638"
+      "id" : "729110967455055943"
     }
   }, {
     "identifier" : {
-      "id" : "c6b2cc7f-b57a-4b21-9a41-0f8bcc0167a4"
-    },
-    "colorId" : 5,
-    "leaderIdentifier" : {
-      "id" : "1199196239946858507"
-    }
-  }, {
-    "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
+      "id" : "e626c755-a56e-4001-bc99-8be4b79f7c6e"
     },
     "colorId" : 15,
     "leaderIdentifier" : {
-      "id" : "781381904053698581"
+      "id" : "748325734141001832"
+    }
+  }, {
+    "identifier" : {
+      "id" : "a7188b63-7eb8-415a-9620-ca5f971d6230"
+    },
+    "colorId" : 1,
+    "leaderIdentifier" : {
+      "id" : "878540402582499339"
     }
   } ],
   "claims" : [ {
     "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
+      "id" : "e626c755-a56e-4001-bc99-8be4b79f7c6e"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "9F"
+        "rawValue" : "3V"
       },
       "type" : "CAPITAL"
     }
   }, {
     "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
+      "id" : "a7188b63-7eb8-415a-9620-ca5f971d6230"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "3M"
+        "rawValue" : "7J"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "52dd41ec-ad70-4a57-bb18-474fffb740f1"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9R"
       },
       "type" : "CAPITAL"
     }

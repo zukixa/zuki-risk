@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1090022628946886729"
+    "id" : "1228640325254512651"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,73 +153,37 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1681688554,
-    "nanos" : 925270144
+    "seconds" : 1713002334,
+    "nanos" : 904632469
   },
   "updatedTime" : {
-    "seconds" : 1718048662,
-    "nanos" : 260353647
+    "seconds" : 1713002488,
+    "nanos" : 677159950
   },
   "phase" : "SETUP",
-  "mapCodename" : "europe",
+  "mapCodename" : "north-america",
   "players" : [ {
     "identifier" : {
-      "id" : "781381904053698581"
+      "id" : "1099700344965050451"
     },
-    "name" : "Deutsches Reich"
-  }, {
-    "identifier" : {
-      "id" : "835261611736301638"
-    },
-    "name" : "Ireland"
-  }, {
-    "identifier" : {
-      "id" : "1199196239946858507"
-    },
-    "name" : "saduahmed"
+    "name" : "American Republic"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
-    },
-    "colorId" : 6,
-    "leaderIdentifier" : {
-      "id" : "835261611736301638"
-    }
-  }, {
-    "identifier" : {
-      "id" : "c6b2cc7f-b57a-4b21-9a41-0f8bcc0167a4"
-    },
-    "colorId" : 5,
-    "leaderIdentifier" : {
-      "id" : "1199196239946858507"
-    }
-  }, {
-    "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
+      "id" : "f3c06d3c-9e8a-4677-ba4e-ecd3daae9306"
     },
     "colorId" : 15,
     "leaderIdentifier" : {
-      "id" : "781381904053698581"
+      "id" : "1099700344965050451"
     }
   } ],
   "claims" : [ {
     "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
+      "id" : "f3c06d3c-9e8a-4677-ba4e-ecd3daae9306"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "9F"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3M"
+        "rawValue" : "8H"
       },
       "type" : "CAPITAL"
     }

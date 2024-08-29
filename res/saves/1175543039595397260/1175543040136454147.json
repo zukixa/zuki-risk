@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1176731084583620641"
+    "id" : "1175543040136454147"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -11,7 +11,7 @@
     "capitalDefenseBonus" : 1
   },
   "palette" : {
-    "name" : "Default-16",
+    "name" : "Original-16",
     "textColor" : {
       "order" : -2147483648,
       "name" : "Text",
@@ -56,129 +56,129 @@
     },
     "sortedColorSet" : [ {
       "order" : 0,
-      "name" : "Salmon",
-      "r" : 255,
-      "g" : 140,
-      "b" : 150
+      "name" : "Cadmium",
+      "r" : 240,
+      "g" : 130,
+      "b" : 50
     }, {
       "order" : 1,
-      "name" : "Lavender",
-      "r" : 155,
-      "g" : 120,
-      "b" : 190
+      "name" : "Sun",
+      "r" : 241,
+      "g" : 224,
+      "b" : 82
     }, {
       "order" : 2,
-      "name" : "Thistle",
-      "r" : 215,
-      "g" : 190,
-      "b" : 240
+      "name" : "Sod",
+      "r" : 171,
+      "g" : 191,
+      "b" : 94
     }, {
       "order" : 3,
-      "name" : "Ice",
-      "r" : 195,
-      "g" : 230,
-      "b" : 255
+      "name" : "Sea",
+      "r" : 140,
+      "g" : 198,
+      "b" : 183
     }, {
       "order" : 4,
       "name" : "Sky",
-      "r" : 120,
+      "r" : 122,
       "g" : 165,
-      "b" : 215
+      "b" : 217
     }, {
       "order" : 5,
-      "name" : "Sea",
-      "r" : 140,
-      "g" : 225,
-      "b" : 175
+      "name" : "Burgundy",
+      "r" : 111,
+      "g" : 16,
+      "b" : 56
     }, {
       "order" : 6,
-      "name" : "Forest",
-      "r" : 85,
-      "g" : 155,
-      "b" : 60
+      "name" : "Sanguine",
+      "r" : 104,
+      "g" : 7,
+      "b" : 2
     }, {
       "order" : 7,
-      "name" : "Sod",
-      "r" : 170,
-      "g" : 190,
-      "b" : 95
+      "name" : "Bistre",
+      "r" : 84,
+      "g" : 35,
+      "b" : 25
     }, {
       "order" : 8,
-      "name" : "Cream",
-      "r" : 255,
-      "g" : 254,
-      "b" : 208
+      "name" : "Forest",
+      "r" : 32,
+      "g" : 64,
+      "b" : 18
     }, {
       "order" : 9,
-      "name" : "Sun",
-      "r" : 240,
-      "g" : 225,
-      "b" : 80
+      "name" : "Cobalt",
+      "r" : 32,
+      "g" : 42,
+      "b" : 122
     }, {
       "order" : 10,
-      "name" : "Gold",
-      "r" : 255,
-      "g" : 195,
-      "b" : 5
+      "name" : "Indigo",
+      "r" : 39,
+      "g" : 25,
+      "b" : 79
     }, {
       "order" : 11,
-      "name" : "Cadmium",
-      "r" : 250,
-      "g" : 105,
-      "b" : 65
+      "name" : "Amethyst",
+      "r" : 82,
+      "g" : 28,
+      "b" : 124
     }, {
       "order" : 12,
-      "name" : "Sanguine",
-      "r" : 95,
-      "g" : 10,
-      "b" : 0
+      "name" : "Gold",
+      "r" : 227,
+      "g" : 170,
+      "b" : 49
     }, {
       "order" : 13,
-      "name" : "Mocha",
-      "r" : 75,
-      "g" : 40,
-      "b" : 0
+      "name" : "TennÃ©",
+      "r" : 193,
+      "g" : 146,
+      "b" : 114
     }, {
       "order" : 14,
-      "name" : "Matte",
-      "r" : 30,
-      "g" : 30,
-      "b" : 30
+      "name" : "Gunmetal",
+      "r" : 170,
+      "g" : 159,
+      "b" : 140
     }, {
       "order" : 15,
-      "name" : "Cobalt",
-      "r" : 0,
-      "g" : 50,
-      "b" : 120
+      "name" : "Aphotic",
+      "r" : 64,
+      "g" : 49,
+      "b" : 51
     } ]
   },
   "creationTime" : {
-    "seconds" : 1700625347,
-    "nanos" : 764169485
+    "seconds" : 1711117942,
+    "nanos" : 843175761
   },
   "updatedTime" : {
-    "seconds" : 1711949447,
-    "nanos" : 9055336
+    "seconds" : 1711118056,
+    "nanos" : 387837
   },
   "phase" : "SETUP",
-  "mapCodename" : "four-nations",
+  "mapCodename" : "taiwan",
   "players" : [ {
     "identifier" : {
-      "id" : "989090474759426058"
+      "id" : "951000103752179742"
     },
-    "name" : "Sun"
+    "name" : "Among"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "d2d1f345-ae45-4e03-8b2b-e39234779b02"
+      "id" : "168f471b-5638-4a8f-acda-971d5b7b35a9"
     },
-    "colorId" : 9,
+    "colorId" : 12,
     "leaderIdentifier" : {
-      "id" : "989090474759426058"
+      "id" : "951000103752179742"
     }
   } ],
   "claims" : [ ],
   "alliances" : [ ],
   "featureFlags" : [ ],
-  "type" : "com.riskrieg.core.api.game.mode.Regicide"
+  "type" : "com.riskrieg.core.api.game.mode.Conquest"
 }

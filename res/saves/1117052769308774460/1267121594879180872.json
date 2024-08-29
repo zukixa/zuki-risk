@@ -1,0 +1,1543 @@
+{
+  "identifier" : {
+    "id" : "1267121594879180872"
+  },
+  "constants" : {
+    "minimumPlayers" : 2,
+    "maximumPlayers" : 16,
+    "initialClaimAmount" : 1,
+    "claimIncreaseThreshold" : 5,
+    "capitalAttackBonus" : 2,
+    "capitalDefenseBonus" : 1
+  },
+  "palette" : {
+    "name" : "Default-16",
+    "textColor" : {
+      "order" : -2147483648,
+      "name" : "Text",
+      "r" : 116,
+      "g" : 79,
+      "b" : 40
+    },
+    "borderColor" : {
+      "order" : -2147483648,
+      "name" : "Border",
+      "r" : 116,
+      "g" : 79,
+      "b" : 40
+    },
+    "territoryColor" : {
+      "order" : -2147483648,
+      "name" : "Territory",
+      "r" : 224,
+      "g" : 219,
+      "b" : 227
+    },
+    "landColor" : {
+      "order" : -2147483648,
+      "name" : "Land",
+      "r" : 200,
+      "g" : 183,
+      "b" : 173
+    },
+    "waterColor" : {
+      "order" : -2147483648,
+      "name" : "Water",
+      "r" : 192,
+      "g" : 163,
+      "b" : 146
+    },
+    "connectionColor" : {
+      "order" : -2147483648,
+      "name" : "Connection",
+      "r" : 148,
+      "g" : 125,
+      "b" : 111
+    },
+    "sortedColorSet" : [ {
+      "order" : 0,
+      "name" : "Salmon",
+      "r" : 255,
+      "g" : 140,
+      "b" : 150
+    }, {
+      "order" : 1,
+      "name" : "Lavender",
+      "r" : 155,
+      "g" : 120,
+      "b" : 190
+    }, {
+      "order" : 2,
+      "name" : "Thistle",
+      "r" : 215,
+      "g" : 190,
+      "b" : 240
+    }, {
+      "order" : 3,
+      "name" : "Ice",
+      "r" : 195,
+      "g" : 230,
+      "b" : 255
+    }, {
+      "order" : 4,
+      "name" : "Sky",
+      "r" : 120,
+      "g" : 165,
+      "b" : 215
+    }, {
+      "order" : 5,
+      "name" : "Sea",
+      "r" : 140,
+      "g" : 225,
+      "b" : 175
+    }, {
+      "order" : 6,
+      "name" : "Forest",
+      "r" : 85,
+      "g" : 155,
+      "b" : 60
+    }, {
+      "order" : 7,
+      "name" : "Sod",
+      "r" : 170,
+      "g" : 190,
+      "b" : 95
+    }, {
+      "order" : 8,
+      "name" : "Cream",
+      "r" : 255,
+      "g" : 254,
+      "b" : 208
+    }, {
+      "order" : 9,
+      "name" : "Sun",
+      "r" : 240,
+      "g" : 225,
+      "b" : 80
+    }, {
+      "order" : 10,
+      "name" : "Gold",
+      "r" : 255,
+      "g" : 195,
+      "b" : 5
+    }, {
+      "order" : 11,
+      "name" : "Cadmium",
+      "r" : 250,
+      "g" : 105,
+      "b" : 65
+    }, {
+      "order" : 12,
+      "name" : "Sanguine",
+      "r" : 95,
+      "g" : 10,
+      "b" : 0
+    }, {
+      "order" : 13,
+      "name" : "Mocha",
+      "r" : 75,
+      "g" : 40,
+      "b" : 0
+    }, {
+      "order" : 14,
+      "name" : "Matte",
+      "r" : 30,
+      "g" : 30,
+      "b" : 30
+    }, {
+      "order" : 15,
+      "name" : "Cobalt",
+      "r" : 0,
+      "g" : 50,
+      "b" : 120
+    } ]
+  },
+  "creationTime" : {
+    "seconds" : 1722175800,
+    "nanos" : 51306880
+  },
+  "updatedTime" : {
+    "seconds" : 1722986841,
+    "nanos" : 965721782
+  },
+  "phase" : "ACTIVE",
+  "mapCodename" : "europe",
+  "players" : [ {
+    "identifier" : {
+      "id" : "754057871842476243"
+    },
+    "name" : "girafe kingdom"
+  }, {
+    "identifier" : {
+      "id" : "1228786606211862589"
+    },
+    "name" : "The capitalists"
+  }, {
+    "identifier" : {
+      "id" : "558061009810489363"
+    },
+    "name" : "Wombo (@DrWomboCombo5)"
+  }, {
+    "identifier" : {
+      "id" : "1257342762186051626"
+    },
+    "name" : "The Combine"
+  } ],
+  "nations" : [ {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "colorId" : 3,
+    "leaderIdentifier" : {
+      "id" : "754057871842476243"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "colorId" : 9,
+    "leaderIdentifier" : {
+      "id" : "558061009810489363"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "colorId" : 6,
+    "leaderIdentifier" : {
+      "id" : "1228786606211862589"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "colorId" : 15,
+    "leaderIdentifier" : {
+      "id" : "1257342762186051626"
+    }
+  } ],
+  "claims" : [ {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2V"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2S"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2T"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8Q"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11M"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10U"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10Q"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9M"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1V"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1T"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7R"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7Q"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12S"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10M"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8M"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12I"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6R"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3M"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8V"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9I"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11I"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3E"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3G"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5R"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7V"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5W"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10I"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2G"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4R"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1G"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6V"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1F"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4W"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2F"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2D"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5V"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3W"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12F"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6I"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7M"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7I"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4V"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2W"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5I"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12U"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6M"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3V"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8I"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e320f67e-1ea9-4720-8cf0-dc0332a701b5"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3P"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1W"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10D"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "3da5a67f-96d1-42a3-ba6d-f53580fc677e"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9Q"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "4e7787a8-d22b-4564-a90e-7b9c015ac84f"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "6E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11U"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "669dfe87-4c4f-4d70-ba52-46a780c3c1bf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11Q"
+      },
+      "type" : "PLAIN"
+    }
+  } ],
+  "alliances" : [ ],
+  "featureFlags" : [ ],
+  "type" : "com.riskrieg.core.api.game.mode.Conquest"
+}

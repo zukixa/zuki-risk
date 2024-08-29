@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1090022628946886729"
+    "id" : "1206299505423679559"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,78 +153,45 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1681688554,
-    "nanos" : 925270144
+    "seconds" : 1707675349,
+    "nanos" : 649712729
   },
   "updatedTime" : {
-    "seconds" : 1718048662,
-    "nanos" : 260353647
+    "seconds" : 1707675602,
+    "nanos" : 288850239
   },
   "phase" : "SETUP",
-  "mapCodename" : "europe",
+  "mapCodename" : "baltic-states",
   "players" : [ {
     "identifier" : {
-      "id" : "781381904053698581"
+      "id" : "878540402582499339"
     },
-    "name" : "Deutsches Reich"
-  }, {
-    "identifier" : {
-      "id" : "835261611736301638"
-    },
-    "name" : "Ireland"
-  }, {
-    "identifier" : {
-      "id" : "1199196239946858507"
-    },
-    "name" : "saduahmed"
+    "name" : "💤"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
+      "id" : "acf09bd7-4de3-4abd-aeff-33d7af8f13a2"
     },
-    "colorId" : 6,
+    "colorId" : 1,
     "leaderIdentifier" : {
-      "id" : "835261611736301638"
-    }
-  }, {
-    "identifier" : {
-      "id" : "c6b2cc7f-b57a-4b21-9a41-0f8bcc0167a4"
-    },
-    "colorId" : 5,
-    "leaderIdentifier" : {
-      "id" : "1199196239946858507"
-    }
-  }, {
-    "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
-    },
-    "colorId" : 15,
-    "leaderIdentifier" : {
-      "id" : "781381904053698581"
+      "id" : "878540402582499339"
     }
   } ],
   "claims" : [ {
     "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
+      "id" : "acf09bd7-4de3-4abd-aeff-33d7af8f13a2"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "9F"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3M"
+        "rawValue" : "4C"
       },
       "type" : "CAPITAL"
     }
   } ],
   "alliances" : [ ],
-  "featureFlags" : [ ],
+  "featureFlags" : [ {
+    "feature" : "ALLIANCES",
+    "enabled" : true
+  } ],
   "type" : "com.riskrieg.core.api.game.mode.Conquest"
 }

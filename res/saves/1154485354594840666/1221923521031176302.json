@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1090022628946886729"
+    "id" : "1221923521031176302"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,78 +153,88 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1681688554,
-    "nanos" : 925270144
+    "seconds" : 1712963868,
+    "nanos" : 239443538
   },
   "updatedTime" : {
-    "seconds" : 1718048662,
-    "nanos" : 260353647
+    "seconds" : 1712964307,
+    "nanos" : 331662874
   },
-  "phase" : "SETUP",
+  "phase" : "ACTIVE",
   "mapCodename" : "europe",
   "players" : [ {
     "identifier" : {
-      "id" : "781381904053698581"
+      "id" : "852727621673549824"
     },
-    "name" : "Deutsches Reich"
+    "name" : "#MakeNonamexPlazmaReal"
   }, {
     "identifier" : {
-      "id" : "835261611736301638"
+      "id" : "983874202635472966"
     },
-    "name" : "Ireland"
+    "name" : "#MakeNonamexPlazmaReal"
   }, {
     "identifier" : {
-      "id" : "1199196239946858507"
+      "id" : "902572156175671346"
     },
-    "name" : "saduahmed"
+    "name" : "italy"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
+      "id" : "a1e22177-0ff8-4df6-b24c-74b92e2fa990"
     },
-    "colorId" : 6,
+    "colorId" : 11,
     "leaderIdentifier" : {
-      "id" : "835261611736301638"
+      "id" : "983874202635472966"
     }
   }, {
     "identifier" : {
-      "id" : "c6b2cc7f-b57a-4b21-9a41-0f8bcc0167a4"
+      "id" : "180e2210-bb33-4424-9cc3-af378a0c2f1c"
     },
-    "colorId" : 5,
+    "colorId" : 12,
     "leaderIdentifier" : {
-      "id" : "1199196239946858507"
+      "id" : "902572156175671346"
     }
   }, {
     "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
+      "id" : "3a124f05-8ef2-48f2-9731-6fce26504b79"
     },
-    "colorId" : 15,
+    "colorId" : 8,
     "leaderIdentifier" : {
-      "id" : "781381904053698581"
+      "id" : "852727621673549824"
     }
   } ],
   "claims" : [ {
     "identifier" : {
-      "id" : "1c918ce7-fee1-4c2f-89a5-c8740ae2f0b2"
+      "id" : "3a124f05-8ef2-48f2-9731-6fce26504b79"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "9F"
+        "rawValue" : "4Q"
       },
       "type" : "CAPITAL"
     }
   }, {
     "identifier" : {
-      "id" : "6d580460-194f-43e6-8142-a214b8803a7d"
+      "id" : "a1e22177-0ff8-4df6-b24c-74b92e2fa990"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "3M"
+        "rawValue" : "6Q"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "180e2210-bb33-4424-9cc3-af378a0c2f1c"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8E"
       },
       "type" : "CAPITAL"
     }
   } ],
   "alliances" : [ ],
   "featureFlags" : [ ],
-  "type" : "com.riskrieg.core.api.game.mode.Conquest"
+  "type" : "com.riskrieg.core.api.game.mode.Brawl"
 }
