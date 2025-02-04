@@ -153,32 +153,137 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1721813280,
-    "nanos" : 258805058
+    "seconds" : 1734531494,
+    "nanos" : 909338869
   },
   "updatedTime" : {
-    "seconds" : 1721813364,
-    "nanos" : 705210751
+    "seconds" : 1735495953,
+    "nanos" : 620075245
   },
   "phase" : "SETUP",
-  "mapCodename" : "san-francisco",
+  "mapCodename" : "north-america",
   "players" : [ {
     "identifier" : {
       "id" : "1099700344965050451"
     },
-    "name" : "San Francisco PD"
+    "name" : "United States of America"
+  }, {
+    "identifier" : {
+      "id" : "1149720595815211018"
+    },
+    "name" : "Yakut Khanate"
+  }, {
+    "identifier" : {
+      "id" : "1120505828747788378"
+    },
+    "name" : "Republic of Mexico"
+  }, {
+    "identifier" : {
+      "id" : "1268213901313445929"
+    },
+    "name" : "Confederate States of America"
+  }, {
+    "identifier" : {
+      "id" : "1301927519036899478"
+    },
+    "name" : "Atomwaffen Division"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "8e10fad2-18a2-434a-ab74-7396e6e2608b"
+      "id" : "55116934-60d9-4b8a-98d3-9627df6f92d9"
+    },
+    "colorId" : 3,
+    "leaderIdentifier" : {
+      "id" : "1149720595815211018"
+    }
+  }, {
+    "identifier" : {
+      "id" : "d8b104d6-96e5-4d34-b8c2-bfad2f224823"
+    },
+    "colorId" : 6,
+    "leaderIdentifier" : {
+      "id" : "1120505828747788378"
+    }
+  }, {
+    "identifier" : {
+      "id" : "64daa474-ce41-4a3d-8dc7-cbdf02076403"
+    },
+    "colorId" : 7,
+    "leaderIdentifier" : {
+      "id" : "1268213901313445929"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f12ee120-ba02-4f85-b9df-d9c5848e02a6"
+    },
+    "colorId" : 14,
+    "leaderIdentifier" : {
+      "id" : "1301927519036899478"
+    }
+  }, {
+    "identifier" : {
+      "id" : "88994a0e-5da1-4e1a-90f2-87f2c7119d99"
     },
     "colorId" : 15,
     "leaderIdentifier" : {
       "id" : "1099700344965050451"
     }
   } ],
-  "claims" : [ ],
+  "claims" : [ {
+    "identifier" : {
+      "id" : "55116934-60d9-4b8a-98d3-9627df6f92d9"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2D"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "d8b104d6-96e5-4d34-b8c2-bfad2f224823"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4L"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "88994a0e-5da1-4e1a-90f2-87f2c7119d99"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9G"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f12ee120-ba02-4f85-b9df-d9c5848e02a6"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "9I"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "64daa474-ce41-4a3d-8dc7-cbdf02076403"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7H"
+      },
+      "type" : "CAPITAL"
+    }
+  } ],
   "alliances" : [ ],
-  "featureFlags" : [ ],
+  "featureFlags" : [ {
+    "feature" : "ALLIANCES",
+    "enabled" : true
+  } ],
   "type" : "com.riskrieg.core.api.game.mode.Conquest"
 }

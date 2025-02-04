@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1114993976441831455"
+    "id" : "1320911160312336384"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,45 +153,45 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1711983547,
-    "nanos" : 102173287
+    "seconds" : 1735266633,
+    "nanos" : 511059981
   },
   "updatedTime" : {
-    "seconds" : 1722977970,
-    "nanos" : 831254220
+    "seconds" : 1735308020,
+    "nanos" : 263582126
   },
   "phase" : "SETUP",
   "mapCodename" : "",
   "players" : [ {
     "identifier" : {
-      "id" : "984118202697142282"
+      "id" : "757128018798837851"
     },
-    "name" : "𓉔 𓉕 𓉖 𓉗 𓉘 𓉙 𓉚 𓉛 𓉜 𓉝 𓉞 𓉟 𓉠 𓉡 𓉢 𓉣 𓉤 𓉥 𓉦 𓉧 𓉨 𓉩 𓉪 𓉫 𓉬 𓉭 𓉮 𓉯 𓉰 𓉱 𓉲 𓉳 𓉴 𓉵 𓉶 𓉷 𓉸 𓉹 𓉺 𓉻 𓉼 𓉽 𓉾 𓉿 𓊀 𓊁 𓊂 𓊃 𓊄 𓊅 𓊆 𓊇 𓊈 𓊉 𓊊 𓊋 𓊌 𓊍 𓊎 𓊏 𓊐 𓊑 𓊒 𓊓 𓊔 𓊕 𓊖 𓊗 𓊘 𓊙 𓊚 𓊛 𓊜 𓊝 𓊞 𓊟 𓊠 𓊡 𓊢 𓊣 𓊤 𓊥 𓊦 𓊧 𓊨 𓊩 𓊪 𓊫 𓊬 𓊭 𓊮 𓊯 𓊰 𓊱 𓊲 𓊳 𓊴 𓊵 𓊶 𓊷 𓊸 𓊹 𓊺 𓊻 𓊼 𓊽 𓊾 𓊿 𓋀 𓋁 𓋂 𓋃 𓋄 𓋅 𓋆 𓋇 𓋈 𓋉 𓋊 𓋋 𓋌 𓋍 𓋎 𓋏 𓋐 𓋑 𓋒 𓋓 𓋔 𓋕 𓋖 𓋗 𓋘 𓋙 𓋚 𓋛 𓋜 𓋝 𓋞 𓋟 𓋠 𓋡 𓋢 𓋣 𓋤 𓋥 𓋦 𓋧 𓋨 𓋩 𓋪 𓋫 𓋬 𓋭 𓋮 𓋯 𓋰 𓋱 𓋲 𓋳 𓋴 𓋵 𓋶 𓋷 𓋸 𓋹 𓋺 𓋻 𓋼 𓋽 𓋾 𓋿 𓌀 𓌁 𓌂 𓌃 𓌄 𓌅 𓌆 𓌇 𓌈 𓌉 𓌊 𓌋 𓌌 𓌍 𓌎 𓌏 𓌐 𓌑 𓌒 𓌓 𓌔 𓌕 𓌖 𓌗 𓌘 𓌙 𓌚 𓌛 𓌜 𓌝 𓌞 𓌟 𓌠 𓌡 𓌢 𓌣 𓌤 𓌥 𓌦 𓌧 𓌨 𓌩 𓌪 𓌫 𓌬 𓌭 𓌮 𓌯 𓌰 𓌱 𓌲 𓌳 𓌴 𓌵 𓌶 𓌷 𓌸 𓌹 𓌺 𓌻 𓌼 𓌽 𓌾 𓌿 𓍀 𓍁 𓍂 𓍃 𓍄 𓍅 𓍆 𓍇 𓍈 𓍉 𓍊 𓍋 𓍌 𓍍 𓍎 𓍏 𓍐 𓍑 𓍒 𓍓 𓍔 𓍕 𓍖 𓍗 𓍘 𓍙 𓍚 𓍛 𓍜 𓍝 𓍞 𓍟 𓍠 𓍡 𓍢 𓍣 𓍤 𓍥 𓍦 𓍧 𓍨 𓍩 𓍪 𓍫 𓍬 𓍭 𓍮 𓍯 𓍰 𓍱 𓍲 𓍳 𓍴 𓍵 𓍶 𓍷 𓍸"
+    "name" : "Heat death of the Earth"
   }, {
     "identifier" : {
-      "id" : "1267603843420524555"
+      "id" : "892559216865325077"
     },
-    "name" : "Lord"
+    "name" : "themen"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "accd1cef-e9c7-4c07-aded-f9a0a46334ee"
-    },
-    "colorId" : 15,
-    "leaderIdentifier" : {
-      "id" : "984118202697142282"
-    }
-  }, {
-    "identifier" : {
-      "id" : "054b4163-04a6-4aa6-8597-7e7553ccac5c"
+      "id" : "f00f3947-3d51-4f43-8629-83da77885c4d"
     },
     "colorId" : 3,
     "leaderIdentifier" : {
-      "id" : "1267603843420524555"
+      "id" : "757128018798837851"
+    }
+  }, {
+    "identifier" : {
+      "id" : "34088eb6-6e46-43a8-95fd-cf848329a7c6"
+    },
+    "colorId" : 14,
+    "leaderIdentifier" : {
+      "id" : "892559216865325077"
     }
   } ],
   "claims" : [ ],
   "alliances" : [ ],
   "featureFlags" : [ ],
-  "type" : "com.riskrieg.core.api.game.mode.Regicide"
+  "type" : "com.riskrieg.core.api.game.mode.Conquest"
 }

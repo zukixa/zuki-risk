@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1096490405828247623"
+    "id" : "1296401009530241024"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,32 +153,32 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1736125776,
-    "nanos" : 787624757
+    "seconds" : 1730747389,
+    "nanos" : 626698847
   },
   "updatedTime" : {
-    "seconds" : 1736374599,
-    "nanos" : 266187517
+    "seconds" : 1730747485,
+    "nanos" : 630548134
   },
   "phase" : "SETUP",
   "mapCodename" : "",
   "players" : [ {
     "identifier" : {
-      "id" : "565121863458619428"
+      "id" : "608733569694826509"
     },
-    "name" : "m0rtal6896"
+    "name" : "🇮🇹 | Italy"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "0d97fca9-84bd-4947-a683-b42fd5afa9f6"
+      "id" : "3fd2928c-1098-46a7-acf5-d08d4994d5dd"
     },
-    "colorId" : 15,
+    "colorId" : 10,
     "leaderIdentifier" : {
-      "id" : "565121863458619428"
+      "id" : "608733569694826509"
     }
   } ],
   "claims" : [ ],
   "alliances" : [ ],
   "featureFlags" : [ ],
-  "type" : "com.riskrieg.core.api.game.mode.Conquest"
+  "type" : "com.riskrieg.core.api.game.mode.Regicide"
 }

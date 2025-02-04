@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1096490405828247623"
+    "id" : "1209730046063812690"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,28 +153,28 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1736125776,
-    "nanos" : 787624757
+    "seconds" : 1730459981,
+    "nanos" : 217612995
   },
   "updatedTime" : {
-    "seconds" : 1736374599,
-    "nanos" : 266187517
+    "seconds" : 1730460035,
+    "nanos" : 811280244
   },
   "phase" : "SETUP",
-  "mapCodename" : "",
+  "mapCodename" : "europe",
   "players" : [ {
     "identifier" : {
-      "id" : "565121863458619428"
+      "id" : "1120505828747788378"
     },
-    "name" : "m0rtal6896"
+    "name" : "Grand Duchy of Muscovy"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "0d97fca9-84bd-4947-a683-b42fd5afa9f6"
+      "id" : "ff096e0f-00bd-46e7-818c-3fa21ebe5bd8"
     },
-    "colorId" : 15,
+    "colorId" : 6,
     "leaderIdentifier" : {
-      "id" : "565121863458619428"
+      "id" : "1120505828747788378"
     }
   } ],
   "claims" : [ ],

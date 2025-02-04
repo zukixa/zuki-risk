@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1096490405828247623"
+    "id" : "1254065507510779986"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,31 +153,41 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1736125776,
-    "nanos" : 787624757
+    "seconds" : 1734603875,
+    "nanos" : 540429917
   },
   "updatedTime" : {
-    "seconds" : 1736374599,
-    "nanos" : 266187517
+    "seconds" : 1734603942,
+    "nanos" : 389044531
   },
   "phase" : "SETUP",
-  "mapCodename" : "",
+  "mapCodename" : "europe",
   "players" : [ {
     "identifier" : {
-      "id" : "565121863458619428"
+      "id" : "825252243825360917"
     },
-    "name" : "m0rtal6896"
+    "name" : "true97"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "0d97fca9-84bd-4947-a683-b42fd5afa9f6"
+      "id" : "0be9bc02-3b03-4f83-94ea-bc7de4bcb42d"
     },
-    "colorId" : 15,
+    "colorId" : 12,
     "leaderIdentifier" : {
-      "id" : "565121863458619428"
+      "id" : "825252243825360917"
     }
   } ],
-  "claims" : [ ],
+  "claims" : [ {
+    "identifier" : {
+      "id" : "0be9bc02-3b03-4f83-94ea-bc7de4bcb42d"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8A"
+      },
+      "type" : "CAPITAL"
+    }
+  } ],
   "alliances" : [ ],
   "featureFlags" : [ ],
   "type" : "com.riskrieg.core.api.game.mode.Conquest"

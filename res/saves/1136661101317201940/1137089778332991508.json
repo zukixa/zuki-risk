@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1096490405828247623"
+    "id" : "1137089778332991508"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,30 +153,17 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1736125776,
-    "nanos" : 787624757
+    "seconds" : 1730419469,
+    "nanos" : 627514349
   },
   "updatedTime" : {
-    "seconds" : 1736374599,
-    "nanos" : 266187517
+    "seconds" : 1730419469,
+    "nanos" : 627514965
   },
   "phase" : "SETUP",
   "mapCodename" : "",
-  "players" : [ {
-    "identifier" : {
-      "id" : "565121863458619428"
-    },
-    "name" : "m0rtal6896"
-  } ],
-  "nations" : [ {
-    "identifier" : {
-      "id" : "0d97fca9-84bd-4947-a683-b42fd5afa9f6"
-    },
-    "colorId" : 15,
-    "leaderIdentifier" : {
-      "id" : "565121863458619428"
-    }
-  } ],
+  "players" : [ ],
+  "nations" : [ ],
   "claims" : [ ],
   "alliances" : [ ],
   "featureFlags" : [ ],
