@@ -157,12 +157,17 @@
     "nanos" : 423412830
   },
   "updatedTime" : {
-    "seconds" : 1738973317,
-    "nanos" : 75656506
+    "seconds" : 1739118417,
+    "nanos" : 592116637
   },
   "phase" : "ACTIVE",
   "mapCodename" : "europe",
   "players" : [ {
+    "identifier" : {
+      "id" : "1172402796075688032"
+    },
+    "name" : "abc (@5trutrutwytrutrul)"
+  }, {
     "identifier" : {
       "id" : "748325734141001832"
     },
@@ -174,11 +179,6 @@
     "name" : "Bri'ish"
   }, {
     "identifier" : {
-      "id" : "635259975702151178"
-    },
-    "name" : "🇲🇳"
-  }, {
-    "identifier" : {
       "id" : "878540402582499339"
     },
     "name" : "Sleepy… Zzz…"
@@ -187,11 +187,6 @@
       "id" : "819978928696328212"
     },
     "name" : "Blahajers"
-  }, {
-    "identifier" : {
-      "id" : "1172402796075688032"
-    },
-    "name" : "abc (@5trutrutwytrutrul)"
   } ],
   "nations" : [ {
     "identifier" : {
@@ -224,14 +219,6 @@
     "colorId" : 0,
     "leaderIdentifier" : {
       "id" : "1017417028841254923"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "colorId" : 1,
-    "leaderIdentifier" : {
-      "id" : "635259975702151178"
     }
   }, {
     "identifier" : {
@@ -289,26 +276,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "9H"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3N"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3I"
       },
       "type" : "PLAIN"
     }
@@ -578,16 +545,6 @@
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "2S"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
-    },
-    "territory" : {
-      "identity" : {
         "rawValue" : "2V"
       },
       "type" : "PLAIN"
@@ -644,6 +601,16 @@
     }
   }, {
     "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7T"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "6a0e4381-9a50-4f4c-842c-81ebf9c9fccb"
     },
     "territory" : {
@@ -659,6 +626,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "2K"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7Q"
       },
       "type" : "PLAIN"
     }
@@ -699,16 +676,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "3D"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3G"
       },
       "type" : "PLAIN"
     }
@@ -769,6 +736,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "3C"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7F"
       },
       "type" : "PLAIN"
     }
@@ -849,26 +826,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "12A"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "1N"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "1P"
       },
       "type" : "PLAIN"
     }
@@ -964,16 +921,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "10U"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "6a0e4381-9a50-4f4c-842c-81ebf9c9fccb"
     },
     "territory" : {
@@ -994,16 +941,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "10T"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
     },
     "territory" : {
@@ -1019,16 +956,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "6G"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "10Q"
       },
       "type" : "PLAIN"
     }
@@ -1354,31 +1281,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "1W"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
     },
     "territory" : {
       "identity" : {
         "rawValue" : "4T"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "1R"
       },
       "type" : "PLAIN"
     }
@@ -1434,6 +1341,16 @@
     }
   }, {
     "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4R"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
     },
     "territory" : {
@@ -1458,17 +1375,17 @@
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "8V"
+        "rawValue" : "8T"
       },
       "type" : "PLAIN"
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
+      "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "12U"
+        "rawValue" : "8V"
       },
       "type" : "PLAIN"
     }
@@ -1484,31 +1401,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "12T"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
     },
     "territory" : {
       "identity" : {
         "rawValue" : "8I"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "12Q"
       },
       "type" : "PLAIN"
     }
@@ -1594,6 +1491,16 @@
     }
   }, {
     "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3U"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
     },
     "territory" : {
@@ -1654,6 +1561,26 @@
     }
   }, {
     "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3R"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
     },
     "territory" : {
@@ -1664,11 +1591,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "11T"
+        "rawValue" : "3G"
       },
       "type" : "PLAIN"
     }
@@ -1684,11 +1611,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "11U"
+        "rawValue" : "3I"
       },
       "type" : "PLAIN"
     }
@@ -1714,26 +1641,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "11Q"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "7F"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
     },
     "territory" : {
@@ -1749,16 +1656,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "5P"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3W"
       },
       "type" : "PLAIN"
     }
@@ -1784,21 +1681,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "3R"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3U"
+        "rawValue" : "2S"
       },
       "type" : "PLAIN"
     }
@@ -1879,6 +1766,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "6A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12U"
       },
       "type" : "PLAIN"
     }
@@ -2044,16 +1941,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "2W"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
     },
     "territory" : {
@@ -2074,11 +1961,41 @@
     }
   }, {
     "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1R"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1N"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
     },
     "territory" : {
       "identity" : {
         "rawValue" : "5A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5W"
       },
       "type" : "PLAIN"
     }
@@ -2214,16 +2131,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5R"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
     },
     "territory" : {
@@ -2284,36 +2191,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5U"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5T"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5W"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
     },
     "territory" : {
@@ -2324,11 +2201,31 @@
     }
   }, {
     "identifier" : {
+      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "10U"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
     },
     "territory" : {
       "identity" : {
         "rawValue" : "4X"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "4W"
       },
       "type" : "PLAIN"
     }
@@ -2364,16 +2261,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "4R"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
     },
     "territory" : {
@@ -2394,21 +2281,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
+      "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "4W"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "4U"
+        "rawValue" : "3Z"
       },
       "type" : "PLAIN"
     }
@@ -2418,7 +2295,7 @@
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "3Z"
+        "rawValue" : "3W"
       },
       "type" : "PLAIN"
     }
@@ -2454,41 +2331,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "7U"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "7T"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
     },
     "territory" : {
       "identity" : {
         "rawValue" : "9N"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "7Q"
       },
       "type" : "PLAIN"
     }
@@ -2604,11 +2451,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
+      "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
     },
     "territory" : {
       "identity" : {
-        "rawValue" : "6R"
+        "rawValue" : "2W"
       },
       "type" : "PLAIN"
     }
@@ -2619,16 +2466,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "11O"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "6T"
       },
       "type" : "PLAIN"
     }
@@ -2714,16 +2551,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "6U"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
     },
     "territory" : {
@@ -2749,6 +2576,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "9B"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1P"
       },
       "type" : "PLAIN"
     }
@@ -2824,31 +2661,11 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "9U"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "9a051de6-c220-4630-97d7-2669c5e2a695"
     },
     "territory" : {
       "identity" : {
         "rawValue" : "10O"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "9T"
       },
       "type" : "PLAIN"
     }
@@ -2869,16 +2686,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "5B"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "9Q"
       },
       "type" : "PLAIN"
     }
@@ -2939,16 +2746,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "10Y"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "6a0e4381-9a50-4f4c-842c-81ebf9c9fccb"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5J"
       },
       "type" : "PLAIN"
     }
@@ -3064,16 +2861,6 @@
     }
   }, {
     "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "8T"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
       "id" : "f040437c-825b-4c9f-9abb-f93780284b12"
     },
     "territory" : {
@@ -3081,16 +2868,6 @@
         "rawValue" : "4K"
       },
       "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "8afcf4f8-2922-46c2-a36f-1c51d1ddd484"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "8Q"
-      },
-      "type" : "CAPITAL"
     }
   }, {
     "identifier" : {
@@ -3129,6 +2906,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "6L"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f040437c-825b-4c9f-9abb-f93780284b12"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "5J"
       },
       "type" : "PLAIN"
     }
