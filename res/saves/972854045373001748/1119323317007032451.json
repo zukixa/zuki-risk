@@ -157,8 +157,8 @@
     "nanos" : 423412830
   },
   "updatedTime" : {
-    "seconds" : 1739465519,
-    "nanos" : 424094340
+    "seconds" : 1739640650,
+    "nanos" : 3394774
   },
   "phase" : "ACTIVE",
   "mapCodename" : "europe",
@@ -526,6 +526,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "2E"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "cabb4900-5429-425e-8e37-e8018a9a7faf"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "2T"
       },
       "type" : "PLAIN"
     }
@@ -1776,16 +1786,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "2S"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "f99d683d-03e3-4d50-a349-48b981511c91"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "2T"
       },
       "type" : "PLAIN"
     }

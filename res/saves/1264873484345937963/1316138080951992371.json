@@ -157,22 +157,12 @@
     "nanos" : 376828297
   },
   "updatedTime" : {
-    "seconds" : 1739457127,
-    "nanos" : 622908385
+    "seconds" : 1739514807,
+    "nanos" : 290030874
   },
   "phase" : "ACTIVE",
   "mapCodename" : "europe",
   "players" : [ {
-    "identifier" : {
-      "id" : "1321845624118841396"
-    },
-    "name" : "UN Mission in the British Isles"
-  }, {
-    "identifier" : {
-      "id" : "825252243825360917"
-    },
-    "name" : "/~莫个福建加广东在大马~\\"
-  }, {
     "identifier" : {
       "id" : "852934888218820628"
     },
@@ -192,6 +182,16 @@
       "id" : "984840908094730341"
     },
     "name" : "Mazovian Empire"
+  }, {
+    "identifier" : {
+      "id" : "1321845624118841396"
+    },
+    "name" : "UN Mission in the British Isles"
+  }, {
+    "identifier" : {
+      "id" : "825252243825360917"
+    },
+    "name" : "/~莫个福建加广东在大马~\\"
   } ],
   "nations" : [ {
     "identifier" : {
@@ -569,16 +569,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "1L"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "9f08da3d-47a7-429b-a62c-f2dfc2596116"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "1O"
       },
       "type" : "PLAIN"
     }
@@ -1304,6 +1294,16 @@
     }
   }, {
     "identifier" : {
+      "id" : "5804761b-1741-4028-89cc-a2f65278e4e7"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1O"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "2e1cc71e-c35f-439d-a52e-86c97969ce58"
     },
     "territory" : {
@@ -1569,6 +1569,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "8U"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "5804761b-1741-4028-89cc-a2f65278e4e7"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "3O"
       },
       "type" : "PLAIN"
     }
@@ -2929,16 +2939,6 @@
     "territory" : {
       "identity" : {
         "rawValue" : "3N"
-      },
-      "type" : "PLAIN"
-    }
-  }, {
-    "identifier" : {
-      "id" : "9f08da3d-47a7-429b-a62c-f2dfc2596116"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "3O"
       },
       "type" : "PLAIN"
     }
