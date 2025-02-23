@@ -157,17 +157,12 @@
     "nanos" : 950769418
   },
   "updatedTime" : {
-    "seconds" : 1735851231,
-    "nanos" : 875496874
+    "seconds" : 1740258749,
+    "nanos" : 374369624
   },
   "phase" : "ACTIVE",
   "mapCodename" : "europe",
   "players" : [ {
-    "identifier" : {
-      "id" : "819978928696328212"
-    },
-    "name" : "Soviet Union"
-  }, {
     "identifier" : {
       "id" : "1126584805975404594"
     },
@@ -177,6 +172,11 @@
       "id" : "896162585894866984"
     },
     "name" : "Ottoman Empire"
+  }, {
+    "identifier" : {
+      "id" : "819978928696328212"
+    },
+    "name" : "Soviet Union"
   } ],
   "nations" : [ {
     "identifier" : {
@@ -345,6 +345,16 @@
     }
   }, {
     "identifier" : {
+      "id" : "24110245-4230-4228-8b5c-991d0d660813"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7K"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "8f6b4ef0-2191-429c-a63e-502ae75c9301"
     },
     "territory" : {
@@ -360,6 +370,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "9A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "24110245-4230-4228-8b5c-991d0d660813"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7R"
       },
       "type" : "PLAIN"
     }
@@ -489,6 +509,16 @@
     },
     "territory" : {
       "identity" : {
+        "rawValue" : "12K"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "24110245-4230-4228-8b5c-991d0d660813"
+    },
+    "territory" : {
+      "identity" : {
         "rawValue" : "12R"
       },
       "type" : "PLAIN"
@@ -500,6 +530,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "11A"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "24110245-4230-4228-8b5c-991d0d660813"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "12U"
       },
       "type" : "PLAIN"
     }
@@ -610,6 +650,16 @@
     "territory" : {
       "identity" : {
         "rawValue" : "10X"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
+      "id" : "24110245-4230-4228-8b5c-991d0d660813"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11K"
       },
       "type" : "PLAIN"
     }
