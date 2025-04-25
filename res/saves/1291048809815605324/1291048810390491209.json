@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1191518226388107334"
+    "id" : "1291048810390491209"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,85 +153,148 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1742416984,
-    "nanos" : 582159182
+    "seconds" : 1742490792,
+    "nanos" : 390484654
   },
   "updatedTime" : {
-    "seconds" : 1742420086,
-    "nanos" : 360262631
+    "seconds" : 1742563463,
+    "nanos" : 141396836
   },
   "phase" : "SETUP",
-  "mapCodename" : "san-francisco",
+  "mapCodename" : "four-nations",
   "players" : [ {
     "identifier" : {
-      "id" : "732785915864285245"
+      "id" : "984840908094730341"
     },
-    "name" : "yuri"
+    "name" : "Troops of Glory"
   }, {
     "identifier" : {
-      "id" : "748325734141001832"
+      "id" : "1284270323214192714"
     },
-    "name" : "mintymintz"
+    "name" : "Kingdom of Italy"
   }, {
     "identifier" : {
-      "id" : "878540402582499339"
+      "id" : "966966869665935381"
     },
-    "name" : "Sleepy... Zzz..."
+    "name" : "Daesh"
   }, {
     "identifier" : {
-      "id" : "631609726840471553"
+      "id" : "852934888218820628"
     },
-    "name" : "forest fire"
+    "name" : "nigger republic"
   }, {
     "identifier" : {
-      "id" : "1016398053080584273"
+      "id" : "1017417028841254923"
     },
-    "name" : "YURI DESTROYER"
+    "name" : "United Kingdoms of Kassad"
+  }, {
+    "identifier" : {
+      "id" : "825252243825360917"
+    },
+    "name" : "commers"
   } ],
   "nations" : [ {
     "identifier" : {
-      "id" : "9f09dfc6-cef5-4647-8125-380fc3693220"
-    },
-    "colorId" : 11,
-    "leaderIdentifier" : {
-      "id" : "631609726840471553"
-    }
-  }, {
-    "identifier" : {
-      "id" : "af5c231c-8d69-4eda-9daa-28a4432aad59"
-    },
-    "colorId" : 7,
-    "leaderIdentifier" : {
-      "id" : "748325734141001832"
-    }
-  }, {
-    "identifier" : {
-      "id" : "5bd11d0f-9069-4919-a739-37644928c678"
-    },
-    "colorId" : 1,
-    "leaderIdentifier" : {
-      "id" : "878540402582499339"
-    }
-  }, {
-    "identifier" : {
-      "id" : "909db441-9d87-4101-98fd-272fda56923a"
-    },
-    "colorId" : 15,
-    "leaderIdentifier" : {
-      "id" : "1016398053080584273"
-    }
-  }, {
-    "identifier" : {
-      "id" : "636140f3-5c67-45d8-92e2-6ca6b55db8af"
+      "id" : "f73a2a24-9364-40bd-a3d7-33d94a274855"
     },
     "colorId" : 0,
     "leaderIdentifier" : {
-      "id" : "732785915864285245"
+      "id" : "984840908094730341"
+    }
+  }, {
+    "identifier" : {
+      "id" : "5685206d-1456-41eb-8bb3-e47439540f15"
+    },
+    "colorId" : 6,
+    "leaderIdentifier" : {
+      "id" : "1284270323214192714"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e988248b-456b-4e90-84a2-2dd5b48a6ca6"
+    },
+    "colorId" : 14,
+    "leaderIdentifier" : {
+      "id" : "966966869665935381"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f6dcea5d-8cee-457e-8aec-0df731611703"
+    },
+    "colorId" : 13,
+    "leaderIdentifier" : {
+      "id" : "852934888218820628"
+    }
+  }, {
+    "identifier" : {
+      "id" : "d5a8a9bf-ecdd-4512-9d9e-8cde8801d1c0"
+    },
+    "colorId" : 1,
+    "leaderIdentifier" : {
+      "id" : "1017417028841254923"
+    }
+  }, {
+    "identifier" : {
+      "id" : "7c9716d4-0e5b-45e3-88c9-15228c35634a"
+    },
+    "colorId" : 12,
+    "leaderIdentifier" : {
+      "id" : "825252243825360917"
     }
   } ],
   "claims" : [ {
     "identifier" : {
-      "id" : "5bd11d0f-9069-4919-a739-37644928c678"
+      "id" : "e988248b-456b-4e90-84a2-2dd5b48a6ca6"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "36E"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "7c9716d4-0e5b-45e3-88c9-15228c35634a"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "30A"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f73a2a24-9364-40bd-a3d7-33d94a274855"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "11W"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "f6dcea5d-8cee-457e-8aec-0df731611703"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "46E"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "d5a8a9bf-ecdd-4512-9d9e-8cde8801d1c0"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "1E"
+      },
+      "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "5685206d-1456-41eb-8bb3-e47439540f15"
     },
     "territory" : {
       "identity" : {
@@ -239,48 +302,8 @@
       },
       "type" : "CAPITAL"
     }
-  }, {
-    "identifier" : {
-      "id" : "636140f3-5c67-45d8-92e2-6ca6b55db8af"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5C"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "909db441-9d87-4101-98fd-272fda56923a"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "6C"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "9f09dfc6-cef5-4647-8125-380fc3693220"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "1I"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "af5c231c-8d69-4eda-9daa-28a4432aad59"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5G"
-      },
-      "type" : "CAPITAL"
-    }
   } ],
   "alliances" : [ ],
   "featureFlags" : [ ],
-  "type" : "com.riskrieg.core.api.game.mode.Brawl"
+  "type" : "com.riskrieg.core.api.game.mode.Conquest"
 }

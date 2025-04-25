@@ -157,17 +157,12 @@
     "nanos" : 420176273
   },
   "updatedTime" : {
-    "seconds" : 1740706342,
-    "nanos" : 83325098
+    "seconds" : 1744862081,
+    "nanos" : 770895134
   },
   "phase" : "ACTIVE",
   "mapCodename" : "europe",
   "players" : [ {
-    "identifier" : {
-      "id" : "1202087224452337675"
-    },
-    "name" : "Empire of Franc"
-  }, {
     "identifier" : {
       "id" : "1250151785016987829"
     },
@@ -177,6 +172,11 @@
       "id" : "1126876196240642109"
     },
     "name" : "Germania"
+  }, {
+    "identifier" : {
+      "id" : "1202087224452337675"
+    },
+    "name" : "Empire of Franc"
   } ],
   "nations" : [ {
     "identifier" : {
@@ -235,6 +235,16 @@
     }
   }, {
     "identifier" : {
+      "id" : "e8903270-7a4e-4d8c-a083-7f65e37f4526"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "8W"
+      },
+      "type" : "PLAIN"
+    }
+  }, {
+    "identifier" : {
       "id" : "4b6fffb9-5590-4389-9caf-106dd050f7c7"
     },
     "territory" : {
@@ -252,6 +262,16 @@
         "rawValue" : "3G"
       },
       "type" : "CAPITAL"
+    }
+  }, {
+    "identifier" : {
+      "id" : "e8903270-7a4e-4d8c-a083-7f65e37f4526"
+    },
+    "territory" : {
+      "identity" : {
+        "rawValue" : "7W"
+      },
+      "type" : "PLAIN"
     }
   }, {
     "identifier" : {

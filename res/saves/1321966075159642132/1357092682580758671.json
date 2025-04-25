@@ -1,6 +1,6 @@
 {
   "identifier" : {
-    "id" : "1191518226388107334"
+    "id" : "1357092682580758671"
   },
   "constants" : {
     "minimumPlayers" : 2,
@@ -153,134 +153,19 @@
     } ]
   },
   "creationTime" : {
-    "seconds" : 1742416984,
-    "nanos" : 582159182
+    "seconds" : 1744094121,
+    "nanos" : 158076138
   },
   "updatedTime" : {
-    "seconds" : 1742420086,
-    "nanos" : 360262631
+    "seconds" : 1744094121,
+    "nanos" : 158076406
   },
   "phase" : "SETUP",
-  "mapCodename" : "san-francisco",
-  "players" : [ {
-    "identifier" : {
-      "id" : "732785915864285245"
-    },
-    "name" : "yuri"
-  }, {
-    "identifier" : {
-      "id" : "748325734141001832"
-    },
-    "name" : "mintymintz"
-  }, {
-    "identifier" : {
-      "id" : "878540402582499339"
-    },
-    "name" : "Sleepy... Zzz..."
-  }, {
-    "identifier" : {
-      "id" : "631609726840471553"
-    },
-    "name" : "forest fire"
-  }, {
-    "identifier" : {
-      "id" : "1016398053080584273"
-    },
-    "name" : "YURI DESTROYER"
-  } ],
-  "nations" : [ {
-    "identifier" : {
-      "id" : "9f09dfc6-cef5-4647-8125-380fc3693220"
-    },
-    "colorId" : 11,
-    "leaderIdentifier" : {
-      "id" : "631609726840471553"
-    }
-  }, {
-    "identifier" : {
-      "id" : "af5c231c-8d69-4eda-9daa-28a4432aad59"
-    },
-    "colorId" : 7,
-    "leaderIdentifier" : {
-      "id" : "748325734141001832"
-    }
-  }, {
-    "identifier" : {
-      "id" : "5bd11d0f-9069-4919-a739-37644928c678"
-    },
-    "colorId" : 1,
-    "leaderIdentifier" : {
-      "id" : "878540402582499339"
-    }
-  }, {
-    "identifier" : {
-      "id" : "909db441-9d87-4101-98fd-272fda56923a"
-    },
-    "colorId" : 15,
-    "leaderIdentifier" : {
-      "id" : "1016398053080584273"
-    }
-  }, {
-    "identifier" : {
-      "id" : "636140f3-5c67-45d8-92e2-6ca6b55db8af"
-    },
-    "colorId" : 0,
-    "leaderIdentifier" : {
-      "id" : "732785915864285245"
-    }
-  } ],
-  "claims" : [ {
-    "identifier" : {
-      "id" : "5bd11d0f-9069-4919-a739-37644928c678"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "1A"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "636140f3-5c67-45d8-92e2-6ca6b55db8af"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5C"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "909db441-9d87-4101-98fd-272fda56923a"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "6C"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "9f09dfc6-cef5-4647-8125-380fc3693220"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "1I"
-      },
-      "type" : "CAPITAL"
-    }
-  }, {
-    "identifier" : {
-      "id" : "af5c231c-8d69-4eda-9daa-28a4432aad59"
-    },
-    "territory" : {
-      "identity" : {
-        "rawValue" : "5G"
-      },
-      "type" : "CAPITAL"
-    }
-  } ],
+  "mapCodename" : "",
+  "players" : [ ],
+  "nations" : [ ],
+  "claims" : [ ],
   "alliances" : [ ],
   "featureFlags" : [ ],
-  "type" : "com.riskrieg.core.api.game.mode.Brawl"
+  "type" : "com.riskrieg.core.api.game.mode.Conquest"
 }
